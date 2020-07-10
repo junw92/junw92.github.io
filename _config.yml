@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 title: Jun Jeon
-layout: default
 
 sidebar:
   - title: "Title"
