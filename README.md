@@ -34,3 +34,20 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+sidebars:
+- lb2_sidebar
+- lb3_sidebar
+- lb4_sidebar
+- contrib_sidebar
+- community_sidebar
+- es_lb2_sidebar
+- fr_lb2_sidebar
+- ja_lb2_sidebar
+- ko_lb3_sidebar
+- ko_lb2_sidebar
+- ru_lb2_sidebar
+- zh_lb2_sidebar
+- pt-br_lb2_sidebar
+Configuring the si
