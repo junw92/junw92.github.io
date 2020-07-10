@@ -23,8 +23,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[Resume](/).
-[Publication List](/).
+-[Resume](/).
+-[Publication List](/).
 
 ### Jekyll Themes
 
