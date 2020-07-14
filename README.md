@@ -1,4 +1,4 @@
-## Home
+## Jun Jeon
 
 -[Resume](/resume.pdf).
 
